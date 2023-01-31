@@ -282,7 +282,7 @@
         },
         "c": "applebin_macos-darwin_x86_64-dbg-STABLE-20",
         "d": [
-            "//CommandLine/CommandLineToolLib:lib_headers macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-17"
+            "//CommandLine/CommandLineToolLib:lib_swift macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-17"
         ],
         "i": {
             "s": [
@@ -386,7 +386,7 @@
         },
         "c": "macos-arm64-min11.0-applebin_macos-darwin_arm64-dbg-STABLE-18",
         "d": [
-            "//CommandLine/CommandLineToolLib:lib_headers macos-arm64-min11.0-applebin_macos-darwin_arm64-dbg-STABLE-18"
+            "//CommandLine/CommandLineToolLib:lib_swift macos-arm64-min11.0-applebin_macos-darwin_arm64-dbg-STABLE-18"
         ],
         "i": {
             "s": [
@@ -490,7 +490,7 @@
         },
         "c": "macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-19",
         "d": [
-            "//CommandLine/CommandLineToolLib:lib_headers macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-19"
+            "//CommandLine/CommandLineToolLib:lib_swift macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-19"
         ],
         "i": {
             "s": [
@@ -730,9 +730,6 @@
             "SWIFT_VERSION": "5.0"
         },
         "c": "macos-arm64-min11.0-applebin_macos-darwin_arm64-dbg-STABLE-18",
-        "d": [
-            "//CommandLine/CommandLineToolLib:lib_defines macos-arm64-min11.0-applebin_macos-darwin_arm64-dbg-STABLE-18"
-        ],
         "i": {
             "s": [
                 "CommandLine/CommandLineToolLib/lib.m",
@@ -803,9 +800,6 @@
             "SWIFT_VERSION": "5.0"
         },
         "c": "macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-17",
-        "d": [
-            "//CommandLine/CommandLineToolLib:lib_defines macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-17"
-        ],
         "i": {
             "s": [
                 "CommandLine/CommandLineToolLib/lib.m",
@@ -876,9 +870,6 @@
             "SWIFT_VERSION": "5.0"
         },
         "c": "macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-19",
-        "d": [
-            "//CommandLine/CommandLineToolLib:lib_defines macos-x86_64-min11.0-applebin_macos-darwin_x86_64-dbg-STABLE-19"
-        ],
         "i": {
             "s": [
                 "CommandLine/CommandLineToolLib/lib.m",

@@ -654,6 +654,13 @@
 			remoteGlobalIDString = FE59281FE487F27A37DC2EE7;
 			remoteInfo = BazelDependencies;
 		};
+		8A56F633AA7EAFCC858E5955 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FDAAB6F4BD24E6EF4C524280;
+			remoteInfo = "lib_swift (c7049)";
+		};
 		8CEF5E6A7BFEBF56698C0988 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
@@ -674,6 +681,13 @@
 			proxyType = 1;
 			remoteGlobalIDString = 182B42EFE70A5561F1C023E5;
 			remoteInfo = watchOSApp;
+		};
+		91A25D5004BC3FDF72FC3B47 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4D0BA3037D9626451A75ADA8;
+			remoteInfo = "lib_swift (arm64)";
 		};
 		91E85750662C20786D0C9502 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -709,6 +723,13 @@
 			proxyType = 1;
 			remoteGlobalIDString = 9A63A40F4548616B6FC99E1D;
 			remoteInfo = LibFramework.iOS;
+		};
+		99B7F6C4C88C82D0F5F0D09A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF1172E397CBCB80994248D7;
+			remoteInfo = "lib_swift (70419)";
 		};
 		9C6A67C7CAD218F6D033CCD0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -780,13 +801,6 @@
 			remoteGlobalIDString = FE59281FE487F27A37DC2EE7;
 			remoteInfo = BazelDependencies;
 		};
-		B3BCE5CCB9E00DAE0FEA8CAC /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B8BB8941D8B4790065DB0C13;
-			remoteInfo = "lib_headers (70419)";
-		};
 		B5BC5F5622FD3B4B41EDA030 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
@@ -794,26 +808,12 @@
 			remoteGlobalIDString = C85A6D48FFB584AD923EF50E;
 			remoteInfo = "private_swift_lib (c7049)";
 		};
-		B6058C57ABCBE20996580D51 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C8E947DCBD3E1E36A899C25B;
-			remoteInfo = "lib_headers (c7049)";
-		};
 		B9CC8EC919C2E74B3CAB0222 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = D094AA317C2527FB0FCC5015;
 			remoteInfo = "Lib (watchOS)";
-		};
-		BA21AC716B66D1C1C686E80D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B7ABA540A466EB4DBBC135D8;
-			remoteInfo = "lib_defines (c7049)";
 		};
 		BA90E139F9A2657720980562 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -849,13 +849,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = FE59281FE487F27A37DC2EE7;
 			remoteInfo = BazelDependencies;
-		};
-		C9D2B7002AA21699BD7E1BC7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A5EACAE40D41F5B733F8BDE1;
-			remoteInfo = "lib_defines (arm64)";
 		};
 		CFCD97C2433A529E9D15DD32 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -919,13 +912,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = FE59281FE487F27A37DC2EE7;
 			remoteInfo = BazelDependencies;
-		};
-		E3E17BA8252E0EA0F5F61E2F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 96C7A8A4E3BE0C47D1D2E018;
-			remoteInfo = "lib_headers (arm64)";
 		};
 		E480521BEC484A08E14104A6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -1031,13 +1017,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = 967BEB9EDFB3230C10A206A8;
 			remoteInfo = ExampleNestedResources;
-		};
-		FC5F2B23A91FD7F47A3B8CFE /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 36B5F79C7ED8B081842AF69D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9662E3C5739C614E2A31959B;
-			remoteInfo = "lib_defines (70419)";
 		};
 		FC9C3A55176997E6D7891EC0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -4413,7 +4392,7 @@
 			);
 			dependencies = (
 				A848B5560CC322091A22F6CE /* PBXTargetDependency */,
-				57AD4D39D2365C6B8436EC51 /* PBXTargetDependency */,
+				7155D3EE26C27C90C73BE320 /* PBXTargetDependency */,
 			);
 			name = "UniversalCommandLineTool (arm64)";
 			productName = tool.binary;
@@ -4521,7 +4500,6 @@
 			);
 			dependencies = (
 				73D2B40B9D7AF65CC048E50E /* PBXTargetDependency */,
-				AA783B4518ED2322A864F6A3 /* PBXTargetDependency */,
 			);
 			name = "lib_impl (70419)";
 			productName = lib_impl;
@@ -4940,7 +4918,7 @@
 			);
 			dependencies = (
 				6D862D3B79A09124312600DB /* PBXTargetDependency */,
-				649471B394013996BBCA2931 /* PBXTargetDependency */,
+				28BD8DFBAE58098FAA062CA2 /* PBXTargetDependency */,
 			);
 			name = "UniversalCommandLineTool (x86_64)";
 			productName = tool.binary;
@@ -4977,7 +4955,6 @@
 			);
 			dependencies = (
 				D3F0681A40D7C335758B2EEE /* PBXTargetDependency */,
-				309863022D02ECEB9D02DE5A /* PBXTargetDependency */,
 			);
 			name = "lib_impl (c7049)";
 			productName = lib_impl;
@@ -5088,7 +5065,6 @@
 			);
 			dependencies = (
 				ED9B3B3B9505236585E321C3 /* PBXTargetDependency */,
-				FD8F5072DD8167653EDF2779 /* PBXTargetDependency */,
 			);
 			name = "lib_impl (arm64)";
 			productName = lib_impl;
@@ -5269,7 +5245,7 @@
 			);
 			dependencies = (
 				5BE620DBCA4D9D3D7F686A59 /* PBXTargetDependency */,
-				A9E8BDD0E7B235FC93AFC1ED /* PBXTargetDependency */,
+				58DB60F48809BC2120894F5B /* PBXTargetDependency */,
 			);
 			name = CommandLineTool;
 			productName = CommandLineTool;
@@ -7758,6 +7734,12 @@
 			target = FE59281FE487F27A37DC2EE7 /* BazelDependencies */;
 			targetProxy = A8252B98C6EB8140BC626B35 /* PBXContainerItemProxy */;
 		};
+		28BD8DFBAE58098FAA062CA2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "lib_swift (70419)";
+			target = FF1172E397CBCB80994248D7 /* lib_swift (70419) */;
+			targetProxy = 99B7F6C4C88C82D0F5F0D09A /* PBXContainerItemProxy */;
+		};
 		2F3392E40FFA06B2AD811927 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = BazelDependencies;
@@ -7769,12 +7751,6 @@
 			name = FrameworkCoreUtilsObjC;
 			target = A2CE5EDCDDA5334B00B16BC9 /* FrameworkCoreUtilsObjC */;
 			targetProxy = 59AB901F8840A59BA8293207 /* PBXContainerItemProxy */;
-		};
-		309863022D02ECEB9D02DE5A /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lib_defines (c7049)";
-			target = B7ABA540A466EB4DBBC135D8 /* lib_defines (c7049) */;
-			targetProxy = BA21AC716B66D1C1C686E80D /* PBXContainerItemProxy */;
 		};
 		361C329FFCA21416793E6D21 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -7848,12 +7824,6 @@
 			target = FE59281FE487F27A37DC2EE7 /* BazelDependencies */;
 			targetProxy = EF98B399B1DB863E0BF1AE61 /* PBXContainerItemProxy */;
 		};
-		57AD4D39D2365C6B8436EC51 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lib_headers (arm64)";
-			target = 96C7A8A4E3BE0C47D1D2E018 /* lib_headers (arm64) */;
-			targetProxy = E3E17BA8252E0EA0F5F61E2F /* PBXContainerItemProxy */;
-		};
 		57E14AC1DDD3ED3D0624109D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = UIFramework.watchOS;
@@ -7865,6 +7835,12 @@
 			name = "c_lib (c7049)";
 			target = E21657FB8AADA58674E2A294 /* c_lib (c7049) */;
 			targetProxy = 8CEF5E6A7BFEBF56698C0988 /* PBXContainerItemProxy */;
+		};
+		58DB60F48809BC2120894F5B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "lib_swift (c7049)";
+			target = FDAAB6F4BD24E6EF4C524280 /* lib_swift (c7049) */;
+			targetProxy = 8A56F633AA7EAFCC858E5955 /* PBXContainerItemProxy */;
 		};
 		5AA122149E62238287E3D240 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -7889,12 +7865,6 @@
 			name = BazelDependencies;
 			target = FE59281FE487F27A37DC2EE7 /* BazelDependencies */;
 			targetProxy = C37307928B40A32049D194CC /* PBXContainerItemProxy */;
-		};
-		649471B394013996BBCA2931 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lib_headers (70419)";
-			target = B8BB8941D8B4790065DB0C13 /* lib_headers (70419) */;
-			targetProxy = B3BCE5CCB9E00DAE0FEA8CAC /* PBXContainerItemProxy */;
 		};
 		64A52BF36D97ABDAA0A5422F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -7949,6 +7919,12 @@
 			name = ExampleResources;
 			target = 225701F2BB3EA192424F07FE /* ExampleResources */;
 			targetProxy = C0FAC89FE69446153FC65500 /* PBXContainerItemProxy */;
+		};
+		7155D3EE26C27C90C73BE320 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "lib_swift (arm64)";
+			target = 4D0BA3037D9626451A75ADA8 /* lib_swift (arm64) */;
+			targetProxy = 91A25D5004BC3FDF72FC3B47 /* PBXContainerItemProxy */;
 		};
 		731366B1E9F1A54113C49E5B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -8147,18 +8123,6 @@
 			name = BazelDependencies;
 			target = FE59281FE487F27A37DC2EE7 /* BazelDependencies */;
 			targetProxy = 802904D3BC7B73ACCD2F47BE /* PBXContainerItemProxy */;
-		};
-		A9E8BDD0E7B235FC93AFC1ED /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lib_headers (c7049)";
-			target = C8E947DCBD3E1E36A899C25B /* lib_headers (c7049) */;
-			targetProxy = B6058C57ABCBE20996580D51 /* PBXContainerItemProxy */;
-		};
-		AA783B4518ED2322A864F6A3 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lib_defines (70419)";
-			target = 9662E3C5739C614E2A31959B /* lib_defines (70419) */;
-			targetProxy = FC5F2B23A91FD7F47A3B8CFE /* PBXContainerItemProxy */;
 		};
 		ADD15F8AECF92876427A65F3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -8405,12 +8369,6 @@
 			name = BazelDependencies;
 			target = FE59281FE487F27A37DC2EE7 /* BazelDependencies */;
 			targetProxy = D3FFFE846E724924CA2600C8 /* PBXContainerItemProxy */;
-		};
-		FD8F5072DD8167653EDF2779 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "lib_defines (arm64)";
-			target = A5EACAE40D41F5B733F8BDE1 /* lib_defines (arm64) */;
-			targetProxy = C9D2B7002AA21699BD7E1BC7 /* PBXContainerItemProxy */;
 		};
 		FFBB45A95367974EE3849F59 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;

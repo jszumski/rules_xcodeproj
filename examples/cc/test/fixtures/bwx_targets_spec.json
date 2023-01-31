@@ -104,7 +104,7 @@
         },
         "c": "darwin_x86_64-dbg-STABLE-1",
         "d": [
-            "//lib:lib_defines darwin_x86_64-dbg-STABLE-1"
+            "//lib:lib_impl darwin_x86_64-dbg-STABLE-1"
         ],
         "l": "//lib:lib_headers",
         "n": "lib_headers",
@@ -229,9 +229,9 @@
         },
         "c": "darwin_x86_64-dbg-STABLE-1",
         "d": [
-            "//lib:lib_headers darwin_x86_64-dbg-STABLE-1",
-            "//lib2:lib_impl darwin_x86_64-dbg-STABLE-1",
-            "@examples_cc_external//:lib_headers darwin_x86_64-dbg-STABLE-1"
+            "//lib:lib_impl darwin_x86_64-dbg-STABLE-1",
+            "@examples_cc_external//:lib_impl darwin_x86_64-dbg-STABLE-1",
+            "//lib2:lib_impl darwin_x86_64-dbg-STABLE-1"
         ],
         "i": {
             "s": [
@@ -300,7 +300,7 @@
         },
         "c": "darwin_x86_64-dbg-STABLE-1",
         "d": [
-            "@examples_cc_external//:lib_defines darwin_x86_64-dbg-STABLE-1"
+            "@examples_cc_external//:lib_impl darwin_x86_64-dbg-STABLE-1"
         ],
         "l": "@examples_cc_external//:lib_headers",
         "n": "lib_headers",
